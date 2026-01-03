@@ -4,6 +4,10 @@
 
 This project analyzes a large used car dataset to identify the key factors that influence used car prices. The objective is to provide actionable insights to used car dealership to support better inventory selection and pricing. 
 
+**Full analysis and code:**  
+👉 [Jupyter Notebook – Used Car Price Analysis](ml-used-car-analysis.ipynb)
+
+
 ## Business Objective
 
 The business objective of this task is to help car dealerships to understand which vehicle features/characteristics strongly influence the price of used cars so that they can work out on better inventory and pricing. Using provided dataset, we aim to identify the impact of features such as vehicle age, manufacturer, transmission type, odometer reading and other features on the car's sale price. This problem can be framed as supervised regression task where the goal is to develop and train a predictive model to identify the relationship between car's features and its price. The outcome of this task is to provide actionable insights and recommendations to dealerships so that it can help dealers in selecting the inventory with higher resale value and price the cars competitively.
